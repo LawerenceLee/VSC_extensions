@@ -1,0 +1,31 @@
+{
+	"name": "parchment",
+	"displayName": "Parchment Theme",
+	"description": "Parchment Theme for VS Code",
+	"version": "0.0.9",
+	"publisher": "lumiknit",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lumiknit/vscode-parchment-theme/"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Parchment",
+				"uiTheme": "vs",
+				"path": "./themes/Parchment-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "72be19d1-70fe-4e8c-9d42-0968a9e473a5",
+		"publisherId": "5f854730-2a0d-4aa6-ad12-e463ac3b94cd",
+		"publisherDisplayName": "lumiknit"
+	}
+}
